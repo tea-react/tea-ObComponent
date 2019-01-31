@@ -1,0 +1,31 @@
+{
+  "name": "tea-obcomponent",
+  "version": "0.0.1",
+  "description": "observable react component base class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tea-react/tea-ObComponent.git"
+  },
+  "author": "coffee bi",
+  "license": "MIT",
+  "files": [
+    "src",
+    "index.js"
+  ],
+  "keywords": [
+    "react",
+    "components",
+    "component",
+    "observer",
+    "observable",
+    "watch"
+  ],
+  "bugs": {
+    "url": "https://github.com/tea-react/tea-ObComponent/issues"
+  },
+  "homepage": "https://github.com/tea-react/tea-ObComponent#readme"
+}
